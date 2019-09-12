@@ -2,7 +2,7 @@
 The app to help find out a job by matching the job description and the resume. 
 
 ## Collect the job data
-Use the scaper to download job description data from web,  [indeedscrapper](https://github.com/bill-shuzhou-liu/indeedscrapperlatest)
+Use the scaper to download job description data from web,  [indeedscrapper](https://github.com/bill-shuzhou-liu/indeedscrapperlatest), the job summary is stored at the jobs_1.csv and details at data/ folder. 
 
 ## Preprocessing the data
 Use the minhash to filer out duplicate jobs. 
