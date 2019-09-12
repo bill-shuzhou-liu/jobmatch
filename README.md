@@ -16,3 +16,4 @@ Using the [pythonanywhere](https://www.pythonanywhere.com/) to host the django w
 
 Paste the job description and your resume in the web page to get the score of the match. 
 
+The app can also track what job you applied, and what resumse you used. For a new job, whether it is a duplicate jobs. 
