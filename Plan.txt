@@ -5,3 +5,4 @@ Goal: to get the idea of the profitable mode
 
 
 # Create the job match tool
+extract the keywords from CV: https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada
