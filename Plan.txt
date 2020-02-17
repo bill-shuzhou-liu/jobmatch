@@ -1,0 +1,10 @@
+# Create Nich web web sites
+Goal: to get the idea of the profitable mode
+* https://wordpress.com/: free but no domain
+
+
+
+# Create the job match tool
+extract the keywords from CV: https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada
+
+paper: https://www.researchgate.net/publication/221607435_An_Approach_to_Extract_Special_Skills_to_Improve_the_Performance_of_Resume_Selection
